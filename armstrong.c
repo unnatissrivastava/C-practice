@@ -10,9 +10,3 @@ int main()
     temp = n;
     digits = 0;
     sum = 0;
-
-    
-    while(temp > 0)
-    {
-        digits++;
-     
