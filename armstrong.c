@@ -15,18 +15,4 @@ int main()
     while(temp > 0)
     {
         digits++;
-        temp /= 10;
-    }
-
-    temp = n;
-
-   
-    while(temp > 0)
-    {
-        digit = temp % 10;
-        sum += digit * digit * digit;
-        temp /= 10;
-
-
-    return 0;
-}
+     
