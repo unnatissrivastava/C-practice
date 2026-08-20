@@ -24,3 +24,12 @@ A collection of C programming practice programs created while learning the funda
 ## Purpose
 
 This repository is maintained as part of my journey to strengthen my C programming fundamentals, problem-solving skills, and understanding of arrays, loops, conditions, and number-based problems.
+
+## Repository Structure
+
+```text
+C-practice/
+├── addition of rows.c
+├── armstrong.c
+├── ascending-descending.c
+├── factorial.c
