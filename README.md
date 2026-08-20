@@ -14,3 +14,6 @@ A collection of C programming practice programs created while learning the funda
 - Number of digits
 - Number of 5s in a number
 - Product of digits
+- Sum of digits
+- Sum of first and last digit
+- Array traversal
