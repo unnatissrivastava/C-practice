@@ -17,3 +17,7 @@ A collection of C programming practice programs created while learning the funda
 - Sum of digits
 - Sum of first and last digit
 - Array traversal
+
+## Language
+
+- C
