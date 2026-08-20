@@ -10,3 +10,7 @@ A collection of C programming practice programs created while learning the funda
 - Finding an element in a 2D array
 - Finding even and odd elements in a 2D array
 - Harshad number
+- Maximum and second maximum element in an array
+- Number of digits
+- Number of 5s in a number
+- Product of digits
