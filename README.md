@@ -33,3 +33,9 @@ C-practice/
 ├── armstrong.c
 ├── ascending-descending.c
 ├── factorial.c
+├── finding element in 2d array.c
+├── finding even odd in 2d array.c
+├── harshad number.c
+├── max and smax element.c
+├── num of digits.c
+├── number of 5s.c
