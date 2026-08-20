@@ -39,3 +39,7 @@ C-practice/
 ├── max and smax element.c
 ├── num of digits.c
 ├── number of 5s.c
+├── product of digits.c
+├── sum of digits.c
+├── sum of first and last digit.c
+└── traversing.c
