@@ -10,6 +10,5 @@ int main()
         j--;
     }
 
-    return 0;
-       
+    return 0;   
 }
