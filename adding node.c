@@ -10,3 +10,11 @@ struct Node* createNode(int val){
     newNode -> next = NULL;
     return newNode;
 }
+void insertnode(struct Node* head, int val){
+    struct Node* newNode = createNode(val);
+    struct Node* temp = head;
+    while(temp -> next != NULL){
+        temp = temp->next;
+    }
+    temp -> next = newNode;
+}
