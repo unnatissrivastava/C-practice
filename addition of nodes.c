@@ -12,7 +12,7 @@ int main() {
     struct Node *fourth = malloc(sizeof(struct Node));
     struct Node *fifth = malloc(sizeof(struct Node));
 
-    // Store data
+    // Store
     head->data = 10;
     second->data = 20;
     third->data = 30;
