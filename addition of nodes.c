@@ -24,7 +24,7 @@ int main() {
     fourth->next = fifth;
     fifth->next = NULL;
 
-    // Display linked list
+    // Display linked
     struct Node *temp = head;
 
     while (temp != NULL) {
