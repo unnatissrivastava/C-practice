@@ -18,3 +18,10 @@ void insertnode(struct Node* head, int val){
     }
     temp -> next = newNode;
 }
+void display(struct Node* head){
+    struct Node* temp = head;
+    while(temp != NULL){
+        printf("%d ->", temp -> data);
+        temp = temp -> next;
+    }
+}
