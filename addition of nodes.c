@@ -18,7 +18,7 @@ int main() {
     fourth->data = 40;
     fifth->data = 50;
 
-    // Connect nodes
+    // Connect
     head->next = second;
     second->next = third;
     third->next = fourth;
