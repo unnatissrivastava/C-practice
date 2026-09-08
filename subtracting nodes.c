@@ -16,7 +16,7 @@ int main() {
     head->next = second;
     second->next = third;
     third->next = NULL;
-    // Subtraction
+    
     int result = head->data - second->data - third->data;
     printf("Subtraction = %d", result);
     return 0;
