@@ -25,3 +25,11 @@ void display(struct Node* head){
         temp = temp -> next;
     }
 }
+int main(){
+    struct Node* head = createNode(10);
+    head -> next = createNode(20);
+    head -> next -> next = createNode(30);
+    insertnode(head,40);
+    display(head);
+    return 0;
+}
