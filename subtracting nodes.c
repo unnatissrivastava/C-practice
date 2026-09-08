@@ -8,7 +8,7 @@ int main() {
     struct Node *head = malloc(sizeof(struct Node));
     struct Node *second = malloc(sizeof(struct Node));
     struct Node *third = malloc(sizeof(struct Node));
-    // Add data
+    // Add 
     head->data = 10;
     second->data = 20;
     third->data = 30;
