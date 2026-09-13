@@ -30,7 +30,7 @@ This repository is maintained as part of my journey to strengthen my C programmi
 ```text
 C-practice/
 ├── addition of rows.c
-├── armst
+├── arms
 ├── ascending-descending.c
 ├── factorial.c
 ├── finding element in 2d array.c
