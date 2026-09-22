@@ -25,31 +25,24 @@ void enqueue(int value) {
     queue[rear] = value;
     printf("%d inserted\n", value);
 }
-
 void dequeue(void) {
     if (isEmpty()) {
         printf("Queue is empty\n");
         return;
     }
-
     printf("%d deleted\n", queue[front]);
-
     if (front == rear) {
-        // Last element was removed
         front = rear = -1;
     } else {
         front = (front + 1) % SIZE;
     }
 }
-
 void display(void) {
     if (isEmpty()) {
         printf("Queue is empty\n");
         return;
     }
-
     printf("Queue: ");
-
     int i = front;
     while (1) {
         printf("%d ", queue[i]);
