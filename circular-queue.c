@@ -1,18 +1,14 @@
 #include <stdio.h>
 #define SIZE 5
-
 int queue[SIZE];
 int front = -1;
 int rear = -1;
-
 int isFull(void) {
     return (rear + 1) % SIZE == front;
 }
-
 int isEmpty(void) {
     return front == -1;
 }
-
 void enqueue(int value) {
     if (isFull()) {
         printf("Queue is full\n");
