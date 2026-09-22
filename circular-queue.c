@@ -55,22 +55,16 @@ void display(void) {
 
     printf("\n");
 }
-
 int main(void) {
     enqueue(10);
     enqueue(20);
     enqueue(30);
     enqueue(40);
-
     display();
-
     dequeue();
     dequeue();
-
     enqueue(50);
     enqueue(60);
-
     display();
-
     return 0;
 }
