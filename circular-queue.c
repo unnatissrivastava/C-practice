@@ -45,13 +45,10 @@ void display(void) {
     int i = front;
     while (1) {
         printf("%d ", queue[i]);
-
         if (i == rear)
             break;
-
         i = (i + 1) % SIZE;
     }
-
     printf("\n");
 }
 int main(void) {
