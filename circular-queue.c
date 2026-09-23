@@ -14,7 +14,6 @@ void enqueue(int value) {
         printf("Queue is full\n");
         return;
     }
-
     if (isEmpty()) {
         front = 0;
         rear = 0;
