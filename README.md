@@ -19,6 +19,7 @@ A collection of C programming practice programs created while learning the funda
 - Array traversal
 
 ## Language
+-c
 
 ## Purpose
 
