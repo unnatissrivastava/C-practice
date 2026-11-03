@@ -1,4 +1,4 @@
-# C Practice
+# C Practic
 
 A collection of C programming practice programs created while learning the fundamentals of Programming in C.
 
